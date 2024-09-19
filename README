@@ -5,5 +5,3 @@ Módulo task.py: Define la clase Task, que representa una tarea. Cada tarea tien
 # Arquitectura de Software en Python: Sistema de Gestión de Inventario
 
 Módulo product.py: Define la clase Product, que representa un producto en el inventario. Cada producto tiene un nombre, cantidad y precio. También tiene un método para actualizar la cantidad del producto. 
-
-#test
