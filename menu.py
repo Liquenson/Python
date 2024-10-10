@@ -55,5 +55,5 @@ if __name__ == "__main__":
     menu.agregar_categoria(sopas)
     menu.agregar_categoria(pizzas)
     
-    # Mostrar mi menú
+    # Mostrar menú
     menu.mostrar_menu()
