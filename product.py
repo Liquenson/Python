@@ -39,7 +39,7 @@ class InventoryManager:
                 print(product)
 
 
-# main.py - Módulo principal que ejecuta el programa
+# main.py - Módulo principal que ejecuta el programa 23
 def main():
     manager = InventoryManager()
 

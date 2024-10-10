@@ -34,7 +34,7 @@ class TaskManager:
                 print(task)
 
 
-# main.py - Módulo principal que ejecuta el programa
+# main.py - Módulo principal que ejecuta el programa 23
 def main():
     manager = TaskManager()
 
